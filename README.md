@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Metrics](https://metrics.lecoq.io/marinlauber?template=classic&base.indepth=false&base.hireable=false&config.timezone=Europe%2FZurich)
+![Metrics](https://metrics.lecoq.io/marinlauber?template=classic&isocalendar=1&achievements=1&lines=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FZurich)
+
 
 <!--
 **marinlauber/marinlauber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
